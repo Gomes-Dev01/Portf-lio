@@ -1,2 +1,3 @@
 # Portf-lio
-Loren Ips
+Tecnologias utilizadas:
+  
